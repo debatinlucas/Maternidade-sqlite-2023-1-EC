@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Workspaces/prog-mobile/Android Studio/2023-1/Maternidade-sqlite/app/src/main/res/layout/bebe_fragment_adicionar.xml" value="0.35688405797101447" />
+        <entry key="..\:/Workspaces/prog-mobile/Android Studio/2023-1/Maternidade-sqlite/app/src/main/res/layout/bebe_item.xml" value="0.18541666666666667" />
         <entry key="..\:/Workspaces/prog-mobile/Android Studio/2023-1/Maternidade-sqlite/app/src/main/res/layout/mae_item.xml" value="0.30117753623188404" />
+        <entry key="..\:/Workspaces/prog-mobile/Android Studio/2023-1/Maternidade-sqlite/app/src/main/res/layout/medico_fragment_listar.xml" value="0.35688405797101447" />
+        <entry key="..\:/Workspaces/prog-mobile/Android Studio/2023-1/Maternidade-sqlite/app/src/main/res/layout/medico_item.xml" value="0.35688405797101447" />
       </map>
     </option>
   </component>
